@@ -1,6 +1,6 @@
-# Hello there 👋, I'm Zoya Naveed
+# Hello there 👋
 
-I am a **Computer Science student** with a keen interest in **AI, Cloud, IoT, and Automation**.  
+My name is Zoya Naveed and I am a **Computer Science student** with a keen interest in **AI, Cloud, IoT, and Automation**.  
 I enjoy turning ideas into practical projects that solve real-world problems.
 
 ### 🌐 Connect with Me
