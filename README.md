@@ -1,2 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Xx8k480F)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12553018&assignment_repo_type=AssignmentRepo)
+# Hello there 👋, I'm Zoya Naveed
+
+I am a **Computer Science student** with a keen interest in **AI, Cloud, IoT, and Automation**.  
+I enjoy turning ideas into practical projects that solve real-world problems.
+
+### 🌐 Connect with Me
+
+- LinkedIn: [Zoya Naveed](https://www.linkedin.com/in/zoya-naveed)  
+- GitHub: [https://github.com/Zoya-Naveed](https://github.com/Zoya-Naveed)
+  
+### ⚡ A Bit About Me
+I believe in **learning by doing**, and I aim to create solutions that are both practical and efficient.
