@@ -5,7 +5,7 @@ I enjoy turning ideas into practical projects that solve real-world problems.
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [Zoya Naveed](https://www.linkedin.com/in/zoya-naveed)  
+- LinkedIn: [Zoya Naveed](https://www.linkedin.com/in/zoya-naveed-b5b3202b2/)
 - GitHub: [https://github.com/Zoya-Naveed](https://github.com/Zoya-Naveed)
   
 ### ⚡ A Bit About Me
